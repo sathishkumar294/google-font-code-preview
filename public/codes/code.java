@@ -1,4 +1,4 @@
- package movies.spring.data.neo4j.movies;
+package movies.spring.data.neo4j.movies;
 
 import org.neo4j.driver.Driver;
 import org.neo4j.driver.Session;
